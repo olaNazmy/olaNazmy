@@ -13,7 +13,7 @@
 I’m a passionate full-stack .NET developer who enjoys solving complex problems, building scalable solutions, and writing clean, maintainable code.
 
 - 🎓 B.Sc. in Computer Science – Menoufia University  
-- 🎓 ITI 9-Month Professional Web & BI Track Graduate  
+- 🎓 ITI 9‑Month Professional Web & BI Track Graduate  
 - 💻 Software Engineer @ Kemet Corporation  
 - 👩‍🏫 External .NET Instructor @ ITI
 
@@ -21,8 +21,7 @@ As a software engineer, I thrive in agile environments, love teaching others, an
 
 ---
 
-### 💼 [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/1MK6F3XIaqf3LF4lbHe_H78gXq6gKq3Bg/view?usp=sharing))  
-*Replace with your actual resume link*
+### 💼 [Resume](https://drive.google.com/file/d/1MK6F3XIaqf3LF4lbHe_H78gXq6gKq3Bg/view?usp=sharing)
 
 ---
 
