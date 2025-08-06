@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Cartoon Developer" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="408" height="318" />
+<img align="right" alt="Coding girl" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="408" height="318" />
 
 ### 👩‍💻 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=olanazmy)
 
