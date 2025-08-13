@@ -8,8 +8,11 @@
 
 <img align="right" alt="Animated Coding Girl" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="408" height="318" />
 
+<div style="margin-top:20px">
+
 ### 👩‍💻 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=olanazmy)
 
+</div>
 I’m a passionate full-stack .NET developer who enjoys solving complex problems, building scalable solutions, and writing clean, maintainable code.
 
 - 🎓 B.Sc. in Computer Science – Menoufia University  
